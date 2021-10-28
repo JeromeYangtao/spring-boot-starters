@@ -1,0 +1,3 @@
+#??java???, \ ??????
+org.springframework.boot.autoconfigure.EnableAutoConfiguration= \
+  com.mianyun.springbootstarterdemo.config.MyConfiguration

@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "com.mianyun.springbootstarterdemo",
+      "type": "com.mianyun.springbootstarterdemo.config.MyConfiguration",
+      "sourceType": "com.mianyun.springbootstarterdemo.config.MyConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my-starter.code",
+      "type": "java.lang.Integer",
+      "description": "使用 code",
+      "sourceType": "com.mianyun.springbootstarterdemo.config.MyConfiguration",
+      "defaultValue": 1
+    },
+    {
+      "name": "my-starter.message",
+      "type": "java.lang.String",
+      "description": "信息",
+      "sourceType": "com.mianyun.springbootstarterdemo.config.MyConfiguration",
+      "defaultValue": "test message"
+    }
+  ],
+  "hints": []
+}
